@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: a43f1981f3b39a64aaab5e55a0b6dacb
+timeCreated: 1458169650
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "Bandeau sup\xE9rieur_001"
+    100002: "Bandeau sup\xE9rieur_002"
+    100004: Barreau vertical_001
+    100006: Barreau#1_001
+    100008: Barreau#2_001
+    100010: Bouton_001
+    100012: Bouton_002
+    100014: Bouton_003
+    100016: Bouton_004
+    100018: Bouton_005
+    100020: Bouton_006
+    100022: Bouton_013
+    100024: Bouton_014
+    100026: Bouton_015
+    100028: Buffet bas_001
+    100030: Buffet haut_001
+    100032: Composant#1_001
+    100034: Composant#1_002
+    100036: Composant#1_003
+    100038: Composant#1_007
+    100040: Composant#1_008
+    100042: Composant#1_009
+    100044: corniche_001
+    100046: Demi gond_001
+    100048: Demi gond_002
+    100050: Demi gond_003
+    100052: Demi gond_004
+    100054: Demi gond_005
+    100056: Demi gond_006
+    100058: Demi gond_007
+    100060: Demi gond_008
+    100062: Demi gond_009
+    100064: Demi gond_010
+    100066: Demi gond_011
+    100068: Demi gond_012
+    100070: Demi gond_019
+    100072: Demi gond_020
+    100074: Demi gond_021
+    100076: Demi gond_022
+    100078: Demi gond_023
+    100080: Demi gond_024
+    100082: Demi gond_025
+    100084: Demi gond_026
+    100086: Demi gond_027
+    100088: Demi gond_028
+    100090: Demi gond_029
+    100092: Demi gond_030
+    100094: Flanc bas_001
+    100096: Flanc bas_002
+    100098: Flanc haut_001
+    100100: Flanc haut_002
+    100102: Flanc tiroir_001
+    100104: Flanc tiroir_002
+    100106: Flanc tiroir_003
+    100108: Flanc tiroir_004
+    100110: Flanc tiroir_005
+    100112: Flanc tiroir_006
+    100114: "Glissi\xE8re_001"
+    100116: "Glissi\xE8re_002"
+    100118: "Glissi\xE8re_003"
+    100120: "Glissi\xE8re_004"
+    100122: "Glissi\xE8re_005"
+    100124: "Glissi\xE8re_006"
+    100126: Loqueteau_001
+    100128: Loqueteau_002
+    100130: Loqueteau_003
+    100132: Loqueteau_004
+    100134: Loqueteau_005
+    100136: Loqueteau_006
+    100138: Montant bas_001
+    100140: Montant bas_003
+    100142: Montant haut_001
+    100144: Montant haut_002
+    100146: pannzau fond haut_001
+    100148: "Pied carr\xE9_001"
+    100150: "Pied carr\xE9_002"
+    100152: Pied rond_001
+    100154: Pied rond_002
+    100156: //RootNode
+    100158: Plateau_001
+    100160: Plateau_002
+    100162: Porte basse_001
+    100164: Porte basse_003
+    100166: Porte basse_005
+    100168: Porte haute centrale_001
+    100170: Porte haute_001
+    100172: Porte haute_003
+    100174: Tasseau bas_001
+    100176: Tasseau bas_002
+    100178: Tasseau bas_003
+    100180: Tiroir_001
+    100182: Tiroir_002
+    100184: Tiroir_003
+    100186: vitre_001
+    400000: "Bandeau sup\xE9rieur_001"
+    400002: "Bandeau sup\xE9rieur_002"
+    400004: Barreau vertical_001
+    400006: Barreau#1_001
+    400008: Barreau#2_001
+    400010: Bouton_001
+    400012: Bouton_002
+    400014: Bouton_003
+    400016: Bouton_004
+    400018: Bouton_005
+    400020: Bouton_006
+    400022: Bouton_013
+    400024: Bouton_014
+    400026: Bouton_015
+    400028: Buffet bas_001
+    400030: Buffet haut_001
+    400032: Composant#1_001
+    400034: Composant#1_002
+    400036: Composant#1_003
+    400038: Composant#1_007
+    400040: Composant#1_008
+    400042: Composant#1_009
+    400044: corniche_001
+    400046: Demi gond_001
+    400048: Demi gond_002
+    400050: Demi gond_003
+    400052: Demi gond_004
+    400054: Demi gond_005
+    400056: Demi gond_006
+    400058: Demi gond_007
+    400060: Demi gond_008
+    400062: Demi gond_009
+    400064: Demi gond_010
+    400066: Demi gond_011
+    400068: Demi gond_012
+    400070: Demi gond_019
+    400072: Demi gond_020
+    400074: Demi gond_021
+    400076: Demi gond_022
+    400078: Demi gond_023
+    400080: Demi gond_024
+    400082: Demi gond_025
+    400084: Demi gond_026
+    400086: Demi gond_027
+    400088: Demi gond_028
+    400090: Demi gond_029
+    400092: Demi gond_030
+    400094: Flanc bas_001
+    400096: Flanc bas_002
+    400098: Flanc haut_001
+    400100: Flanc haut_002
+    400102: Flanc tiroir_001
+    400104: Flanc tiroir_002
+    400106: Flanc tiroir_003
+    400108: Flanc tiroir_004
+    400110: Flanc tiroir_005
+    400112: Flanc tiroir_006
+    400114: "Glissi\xE8re_001"
+    400116: "Glissi\xE8re_002"
+    400118: "Glissi\xE8re_003"
+    400120: "Glissi\xE8re_004"
+    400122: "Glissi\xE8re_005"
+    400124: "Glissi\xE8re_006"
+    400126: Loqueteau_001
+    400128: Loqueteau_002
+    400130: Loqueteau_003
+    400132: Loqueteau_004
+    400134: Loqueteau_005
+    400136: Loqueteau_006
+    400138: Montant bas_001
+    400140: Montant bas_003
+    400142: Montant haut_001
+    400144: Montant haut_002
+    400146: pannzau fond haut_001
+    400148: "Pied carr\xE9_001"
+    400150: "Pied carr\xE9_002"
+    400152: Pied rond_001
+    400154: Pied rond_002
+    400156: //RootNode
+    400158: Plateau_001
+    400160: Plateau_002
+    400162: Porte basse_001
+    400164: Porte basse_003
+    400166: Porte basse_005
+    400168: Porte haute centrale_001
+    400170: Porte haute_001
+    400172: Porte haute_003
+    400174: Tasseau bas_001
+    400176: Tasseau bas_002
+    400178: Tasseau bas_003
+    400180: Tiroir_001
+    400182: Tiroir_002
+    400184: Tiroir_003
+    400186: vitre_001
+    2300000: "Bandeau sup\xE9rieur_001"
+    2300002: "Bandeau sup\xE9rieur_002"
+    2300004: Barreau vertical_001
+    2300006: Barreau#1_001
+    2300008: Barreau#2_001
+    2300010: Bouton_001
+    2300012: Bouton_002
+    2300014: Bouton_003
+    2300016: Bouton_004
+    2300018: Bouton_005
+    2300020: Bouton_006
+    2300022: Bouton_013
+    2300024: Bouton_014
+    2300026: Bouton_015
+    2300028: Buffet bas_001
+    2300030: Buffet haut_001
+    2300032: Composant#1_001
+    2300034: Composant#1_002
+    2300036: Composant#1_003
+    2300038: Composant#1_007
+    2300040: Composant#1_008
+    2300042: Composant#1_009
+    2300044: corniche_001
+    2300046: Demi gond_001
+    2300048: Demi gond_002
+    2300050: Demi gond_003
+    2300052: Demi gond_004
+    2300054: Demi gond_005
+    2300056: Demi gond_006
+    2300058: Demi gond_007
+    2300060: Demi gond_008
+    2300062: Demi gond_009
+    2300064: Demi gond_010
+    2300066: Demi gond_011
+    2300068: Demi gond_012
+    2300070: Demi gond_019
+    2300072: Demi gond_020
+    2300074: Demi gond_021
+    2300076: Demi gond_022
+    2300078: Demi gond_023
+    2300080: Demi gond_024
+    2300082: Demi gond_025
+    2300084: Demi gond_026
+    2300086: Demi gond_027
+    2300088: Demi gond_028
+    2300090: Demi gond_029
+    2300092: Demi gond_030
+    2300094: Flanc bas_001
+    2300096: Flanc bas_002
+    2300098: Flanc haut_001
+    2300100: Flanc haut_002
+    2300102: Flanc tiroir_001
+    2300104: Flanc tiroir_002
+    2300106: Flanc tiroir_003
+    2300108: Flanc tiroir_004
+    2300110: Flanc tiroir_005
+    2300112: Flanc tiroir_006
+    2300114: "Glissi\xE8re_001"
+    2300116: "Glissi\xE8re_002"
+    2300118: "Glissi\xE8re_003"
+    2300120: "Glissi\xE8re_004"
+    2300122: "Glissi\xE8re_005"
+    2300124: "Glissi\xE8re_006"
+    2300126: Loqueteau_001
+    2300128: Loqueteau_002
+    2300130: Loqueteau_003
+    2300132: Loqueteau_004
+    2300134: Loqueteau_005
+    2300136: Loqueteau_006
+    2300138: Montant bas_001
+    2300140: Montant bas_003
+    2300142: Montant haut_001
+    2300144: Montant haut_002
+    2300146: pannzau fond haut_001
+    2300148: "Pied carr\xE9_001"
+    2300150: "Pied carr\xE9_002"
+    2300152: Pied rond_001
+    2300154: Pied rond_002
+    2300156: Plateau_001
+    2300158: Plateau_002
+    2300160: Porte basse_001
+    2300162: Porte basse_003
+    2300164: Porte basse_005
+    2300166: Porte haute centrale_001
+    2300168: Porte haute_001
+    2300170: Porte haute_003
+    2300172: Tasseau bas_001
+    2300174: Tasseau bas_002
+    2300176: Tasseau bas_003
+    2300178: Tiroir_001
+    2300180: Tiroir_002
+    2300182: Tiroir_003
+    2300184: vitre_001
+    3300000: "Bandeau sup\xE9rieur_001"
+    3300002: "Bandeau sup\xE9rieur_002"
+    3300004: Barreau vertical_001
+    3300006: Barreau#1_001
+    3300008: Barreau#2_001
+    3300010: Bouton_001
+    3300012: Bouton_002
+    3300014: Bouton_003
+    3300016: Bouton_004
+    3300018: Bouton_005
+    3300020: Bouton_006
+    3300022: Bouton_013
+    3300024: Bouton_014
+    3300026: Bouton_015
+    3300028: Buffet bas_001
+    3300030: Buffet haut_001
+    3300032: Composant#1_001
+    3300034: Composant#1_002
+    3300036: Composant#1_003
+    3300038: Composant#1_007
+    3300040: Composant#1_008
+    3300042: Composant#1_009
+    3300044: corniche_001
+    3300046: Demi gond_001
+    3300048: Demi gond_002
+    3300050: Demi gond_003
+    3300052: Demi gond_004
+    3300054: Demi gond_005
+    3300056: Demi gond_006
+    3300058: Demi gond_007
+    3300060: Demi gond_008
+    3300062: Demi gond_009
+    3300064: Demi gond_010
+    3300066: Demi gond_011
+    3300068: Demi gond_012
+    3300070: Demi gond_019
+    3300072: Demi gond_020
+    3300074: Demi gond_021
+    3300076: Demi gond_022
+    3300078: Demi gond_023
+    3300080: Demi gond_024
+    3300082: Demi gond_025
+    3300084: Demi gond_026
+    3300086: Demi gond_027
+    3300088: Demi gond_028
+    3300090: Demi gond_029
+    3300092: Demi gond_030
+    3300094: Flanc bas_001
+    3300096: Flanc bas_002
+    3300098: Flanc haut_001
+    3300100: Flanc haut_002
+    3300102: Flanc tiroir_001
+    3300104: Flanc tiroir_002
+    3300106: Flanc tiroir_003
+    3300108: Flanc tiroir_004
+    3300110: Flanc tiroir_005
+    3300112: Flanc tiroir_006
+    3300114: "Glissi\xE8re_001"
+    3300116: "Glissi\xE8re_002"
+    3300118: "Glissi\xE8re_003"
+    3300120: "Glissi\xE8re_004"
+    3300122: "Glissi\xE8re_005"
+    3300124: "Glissi\xE8re_006"
+    3300126: Loqueteau_001
+    3300128: Loqueteau_002
+    3300130: Loqueteau_003
+    3300132: Loqueteau_004
+    3300134: Loqueteau_005
+    3300136: Loqueteau_006
+    3300138: Montant bas_001
+    3300140: Montant bas_003
+    3300142: Montant haut_001
+    3300144: Montant haut_002
+    3300146: pannzau fond haut_001
+    3300148: "Pied carr\xE9_001"
+    3300150: "Pied carr\xE9_002"
+    3300152: Pied rond_001
+    3300154: Pied rond_002
+    3300156: Plateau_001
+    3300158: Plateau_002
+    3300160: Porte basse_001
+    3300162: Porte basse_003
+    3300164: Porte basse_005
+    3300166: Porte haute centrale_001
+    3300168: Porte haute_001
+    3300170: Porte haute_003
+    3300172: Tasseau bas_001
+    3300174: Tasseau bas_002
+    3300176: Tasseau bas_003
+    3300178: Tiroir_001
+    3300180: Tiroir_002
+    3300182: Tiroir_003
+    3300184: vitre_001
+    4300000: Demi gond_030
+    4300002: Demi gond_029
+    4300004: "Bandeau sup\xE9rieur_002"
+    4300006: "Bandeau sup\xE9rieur_001"
+    4300008: Barreau#2_001
+    4300010: Barreau vertical_001
+    4300012: Barreau#1_001
+    4300014: Composant#1_009
+    4300016: Demi gond_028
+    4300018: Demi gond_027
+    4300020: Bouton_015
+    4300022: vitre_001
+    4300024: Porte haute centrale_001
+    4300026: Demi gond_026
+    4300028: Demi gond_025
+    4300030: Demi gond_024
+    4300032: Demi gond_023
+    4300034: Loqueteau_006
+    4300036: Composant#1_008
+    4300038: Demi gond_022
+    4300040: Demi gond_021
+    4300042: Bouton_014
+    4300044: Porte haute_003
+    4300046: Composant#1_007
+    4300048: Demi gond_020
+    4300050: Demi gond_019
+    4300052: Bouton_013
+    4300054: Porte haute_001
+    4300056: Loqueteau_005
+    4300058: Montant haut_002
+    4300060: Loqueteau_004
+    4300062: Montant haut_001
+    4300064: Flanc haut_002
+    4300066: Flanc haut_001
+    4300068: corniche_001
+    4300070: pannzau fond haut_001
+    4300072: Buffet haut_001
+    4300074: "Pied carr\xE9_002"
+    4300076: Pied rond_002
+    4300078: Loqueteau_003
+    4300080: Loqueteau_002
+    4300082: Loqueteau_001
+    4300084: Flanc bas_002
+    4300086: Demi gond_012
+    4300088: Demi gond_011
+    4300090: Demi gond_010
+    4300092: Demi gond_009
+    4300094: Demi gond_008
+    4300096: Demi gond_007
+    4300098: Composant#1_003
+    4300100: Demi gond_006
+    4300102: Demi gond_005
+    4300104: Bouton_006
+    4300106: Porte basse_005
+    4300108: Composant#1_002
+    4300110: Demi gond_004
+    4300112: Demi gond_003
+    4300114: Bouton_005
+    4300116: Porte basse_003
+    4300118: Flanc tiroir_006
+    4300120: Flanc tiroir_005
+    4300122: Bouton_004
+    4300124: Tiroir_003
+    4300126: Flanc tiroir_004
+    4300128: Flanc tiroir_003
+    4300130: Bouton_003
+    4300132: Tiroir_002
+    4300134: "Glissi\xE8re_006"
+    4300136: "Glissi\xE8re_005"
+    4300138: Flanc tiroir_002
+    4300140: Flanc tiroir_001
+    4300142: Bouton_002
+    4300144: Tiroir_001
+    4300146: Composant#1_001
+    4300148: Demi gond_002
+    4300150: Demi gond_001
+    4300152: Bouton_001
+    4300154: Porte basse_001
+    4300156: Tasseau bas_003
+    4300158: Tasseau bas_002
+    4300160: "Glissi\xE8re_004"
+    4300162: "Glissi\xE8re_003"
+    4300164: Montant bas_003
+    4300166: Tasseau bas_001
+    4300168: "Glissi\xE8re_002"
+    4300170: "Glissi\xE8re_001"
+    4300172: Montant bas_001
+    4300174: Plateau_002
+    4300176: Flanc bas_001
+    4300178: Plateau_001
+    4300180: Pied rond_001
+    4300182: "Pied carr\xE9_001"
+    4300184: Buffet bas_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

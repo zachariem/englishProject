@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: f35581ae044f74a469eca49624a5fffc
+timeCreated: 1458249712
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '*_001'
+    100002: +_001
+    100004: -_001
+    100006: /_001
+    100008: 0_001
+    100010: 1_001
+    100012: 2_001
+    100014: 3_001
+    100016: 4_001
+    100018: 5_001
+    100020: 6_001
+    100022: 7_001
+    100024: 8_001
+    100026: 9_001
+    100028: <#1_001
+    100030: '>_001'
+    100032: ^_001
+    100034: //RootNode
+    100036: "AvP\xE1g_001"
+    100038: "Bloq May\xFAs_001"
+    100040: canaleta de cimento 0,8x2m_001
+    100042: canaleta de cimento 0,8x2m_003
+    100044: Component#36_001
+    100046: Component_001
+    100048: Component_003
+    100050: Component_005
+    100052: Despl_001
+    100054: Esc_001
+    100056: Fin_001
+    100058: Group#19_001
+    100060: Group#20_003
+    100062: Group#20_004
+    100064: Group#23_002
+    100066: Group#77_001
+    100068: Group#77_002
+    100070: Group#77_003
+    100072: Group_001
+    100074: ImpPnt Pet Sis_001
+    100076: Inicio_001
+    100078: Mesa de Computador_001
+    100080: Netbook EXO GOBIERNO_001
+    100082: Numb_001
+    100084: obj_01_001
+    100086: obj_02_001
+    100088: obj_03_001
+    100090: obj_03_002
+    100092: obj_06_001
+    100094: Pausa Inter_001
+    100096: "ReP\xE1g_001"
+    100098: Supr_001
+    100100: Tab_001
+    100102: "\u03BD_001"
+    400000: '*_001'
+    400002: +_001
+    400004: -_001
+    400006: /_001
+    400008: 0_001
+    400010: 1_001
+    400012: 2_001
+    400014: 3_001
+    400016: 4_001
+    400018: 5_001
+    400020: 6_001
+    400022: 7_001
+    400024: 8_001
+    400026: 9_001
+    400028: <#1_001
+    400030: '>_001'
+    400032: ^_001
+    400034: //RootNode
+    400036: "AvP\xE1g_001"
+    400038: "Bloq May\xFAs_001"
+    400040: canaleta de cimento 0,8x2m_001
+    400042: canaleta de cimento 0,8x2m_003
+    400044: Component#36_001
+    400046: Component_001
+    400048: Component_003
+    400050: Component_005
+    400052: Despl_001
+    400054: Esc_001
+    400056: Fin_001
+    400058: Group#19_001
+    400060: Group#20_003
+    400062: Group#20_004
+    400064: Group#23_002
+    400066: Group#77_001
+    400068: Group#77_002
+    400070: Group#77_003
+    400072: Group_001
+    400074: ImpPnt Pet Sis_001
+    400076: Inicio_001
+    400078: Mesa de Computador_001
+    400080: Netbook EXO GOBIERNO_001
+    400082: Numb_001
+    400084: obj_01_001
+    400086: obj_02_001
+    400088: obj_03_001
+    400090: obj_03_002
+    400092: obj_06_001
+    400094: Pausa Inter_001
+    400096: "ReP\xE1g_001"
+    400098: Supr_001
+    400100: Tab_001
+    400102: "\u03BD_001"
+    2300000: '*_001'
+    2300002: +_001
+    2300004: -_001
+    2300006: /_001
+    2300008: 0_001
+    2300010: 1_001
+    2300012: 2_001
+    2300014: 3_001
+    2300016: 4_001
+    2300018: 5_001
+    2300020: 6_001
+    2300022: 7_001
+    2300024: 8_001
+    2300026: 9_001
+    2300028: <#1_001
+    2300030: '>_001'
+    2300032: ^_001
+    2300034: "AvP\xE1g_001"
+    2300036: "Bloq May\xFAs_001"
+    2300038: canaleta de cimento 0,8x2m_001
+    2300040: canaleta de cimento 0,8x2m_003
+    2300042: Component#36_001
+    2300044: Component_001
+    2300046: Component_003
+    2300048: Component_005
+    2300050: Despl_001
+    2300052: Esc_001
+    2300054: Fin_001
+    2300056: Group#19_001
+    2300058: Group#20_003
+    2300060: Group#20_004
+    2300062: Group#23_002
+    2300064: Group#77_001
+    2300066: Group#77_002
+    2300068: Group#77_003
+    2300070: Group_001
+    2300072: ImpPnt Pet Sis_001
+    2300074: Inicio_001
+    2300076: Mesa de Computador_001
+    2300078: Netbook EXO GOBIERNO_001
+    2300080: Numb_001
+    2300082: obj_01_001
+    2300084: obj_02_001
+    2300086: obj_03_001
+    2300088: obj_03_002
+    2300090: obj_06_001
+    2300092: Pausa Inter_001
+    2300094: "ReP\xE1g_001"
+    2300096: Supr_001
+    2300098: Tab_001
+    2300100: "\u03BD_001"
+    3300000: '*_001'
+    3300002: +_001
+    3300004: -_001
+    3300006: /_001
+    3300008: 0_001
+    3300010: 1_001
+    3300012: 2_001
+    3300014: 3_001
+    3300016: 4_001
+    3300018: 5_001
+    3300020: 6_001
+    3300022: 7_001
+    3300024: 8_001
+    3300026: 9_001
+    3300028: <#1_001
+    3300030: '>_001'
+    3300032: ^_001
+    3300034: "AvP\xE1g_001"
+    3300036: "Bloq May\xFAs_001"
+    3300038: canaleta de cimento 0,8x2m_001
+    3300040: canaleta de cimento 0,8x2m_003
+    3300042: Component#36_001
+    3300044: Component_001
+    3300046: Component_003
+    3300048: Component_005
+    3300050: Despl_001
+    3300052: Esc_001
+    3300054: Fin_001
+    3300056: Group#19_001
+    3300058: Group#20_003
+    3300060: Group#20_004
+    3300062: Group#23_002
+    3300064: Group#77_001
+    3300066: Group#77_002
+    3300068: Group#77_003
+    3300070: Group_001
+    3300072: ImpPnt Pet Sis_001
+    3300074: Inicio_001
+    3300076: Mesa de Computador_001
+    3300078: Netbook EXO GOBIERNO_001
+    3300080: Numb_001
+    3300082: obj_01_001
+    3300084: obj_02_001
+    3300086: obj_03_001
+    3300088: obj_03_002
+    3300090: obj_06_001
+    3300092: Pausa Inter_001
+    3300094: "ReP\xE1g_001"
+    3300096: Supr_001
+    3300098: Tab_001
+    3300100: "\u03BD_001"
+    4300000: canaleta de cimento 0,8x2m_003
+    4300002: canaleta de cimento 0,8x2m_001
+    4300004: Group#20_004
+    4300006: Group#20_003
+    4300008: Group#23_002
+    4300010: ImpPnt Pet Sis_001
+    4300012: Pausa Inter_001
+    4300014: "Bloq May\xFAs_001"
+    4300016: Despl_001
+    4300018: Supr_001
+    4300020: Numb_001
+    4300022: Fin_001
+    4300024: "AvP\xE1g_001"
+    4300026: Inicio_001
+    4300028: "ReP\xE1g_001"
+    4300030: /_001
+    4300032: +_001
+    4300034: -_001
+    4300036: '*_001'
+    4300038: 0_001
+    4300040: 3_001
+    4300042: 2_001
+    4300044: 1_001
+    4300046: 6_001
+    4300048: 5_001
+    4300050: 4_001
+    4300052: 9_001
+    4300054: 8_001
+    4300056: 7_001
+    4300058: "\u03BD_001"
+    4300060: '>_001'
+    4300062: <#1_001
+    4300064: ^_001
+    4300066: Tab_001
+    4300068: Esc_001
+    4300070: Group#19_001
+    4300072: Group#77_003
+    4300074: Group#77_002
+    4300076: Group#77_001
+    4300078: Group_001
+    4300080: Netbook EXO GOBIERNO_001
+    4300082: Component#36_001
+    4300084: obj_01_001
+    4300086: obj_02_001
+    4300088: obj_03_002
+    4300090: obj_06_001
+    4300092: obj_03_001
+    4300094: Component_005
+    4300096: Component_003
+    4300098: Component_001
+    4300100: Mesa de Computador_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

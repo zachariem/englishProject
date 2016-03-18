@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 08bb0605610e4a14e9bce68570779ec6
+timeCreated: 1458251710
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm_rest_01
+    100002: Bolt
+    100004: Bolt.001
+    100006: Bolt.002
+    100008: Bolt.003
+    100010: Bolt.004
+    100012: Bolt.005
+    100014: Bolt.006
+    100016: Bolt.007
+    100018: Main_body_01
+    100020: Main_pol_01
+    100022: //RootNode
+    100024: Sitting_kushins_01
+    100026: Weel_01
+    100028: weel_02
+    100030: weel_03
+    100032: weel_04
+    100034: weel_stand_01
+    400000: Arm_rest_01
+    400002: Bolt
+    400004: Bolt.001
+    400006: Bolt.002
+    400008: Bolt.003
+    400010: Bolt.004
+    400012: Bolt.005
+    400014: Bolt.006
+    400016: Bolt.007
+    400018: Main_body_01
+    400020: Main_pol_01
+    400022: //RootNode
+    400024: Sitting_kushins_01
+    400026: Weel_01
+    400028: weel_02
+    400030: weel_03
+    400032: weel_04
+    400034: weel_stand_01
+    2300000: Arm_rest_01
+    2300002: Bolt
+    2300004: Bolt.001
+    2300006: Bolt.002
+    2300008: Bolt.003
+    2300010: Bolt.004
+    2300012: Bolt.005
+    2300014: Bolt.006
+    2300016: Bolt.007
+    2300018: Main_body_01
+    2300020: Main_pol_01
+    2300022: Sitting_kushins_01
+    2300024: Weel_01
+    2300026: weel_02
+    2300028: weel_03
+    2300030: weel_04
+    2300032: weel_stand_01
+    3300000: Arm_rest_01
+    3300002: Bolt
+    3300004: Bolt.001
+    3300006: Bolt.002
+    3300008: Bolt.003
+    3300010: Bolt.004
+    3300012: Bolt.005
+    3300014: Bolt.006
+    3300016: Bolt.007
+    3300018: Main_body_01
+    3300020: Main_pol_01
+    3300022: Sitting_kushins_01
+    3300024: Weel_01
+    3300026: weel_02
+    3300028: weel_03
+    3300030: weel_04
+    3300032: weel_stand_01
+    4300000: weel_04
+    4300002: Weel_01
+    4300004: weel_02
+    4300006: weel_03
+    4300008: Bolt.007
+    4300010: Sitting_kushins_01
+    4300012: Main_body_01
+    4300014: Main_pol_01
+    4300016: Arm_rest_01
+    4300018: weel_stand_01
+    7400000: Empty|EmptyAction
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

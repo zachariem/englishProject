@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Cardboard/DemoScene/Base.unity
+- path: Assets/Cardboard/DemoScene/office.unity
   isLoaded: 1
   isActive: 1

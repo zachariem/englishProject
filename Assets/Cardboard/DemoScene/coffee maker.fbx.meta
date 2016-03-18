@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 99d97bd0bc984d24c8ee61261cf9e5f7
+timeCreated: 1458173574
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0_001
+    100002: Agrupar#11_002
+    100004: Agrupar#12_002
+    100006: Agrupar#1_002
+    100008: Agrupar#2_003
+    100010: //RootNode
+    100012: Componente#2_003
+    100014: Componente#2_004
+    100016: Componente#3_002
+    100018: Group_001
+    100020: Group_003
+    100022: Group_004
+    100024: Group_005
+    100026: Group_006
+    100028: Group_007
+    100030: I_001
+    100032: Layer0_001
+    400000: 0_001
+    400002: Agrupar#11_002
+    400004: Agrupar#12_002
+    400006: Agrupar#1_002
+    400008: Agrupar#2_003
+    400010: //RootNode
+    400012: Componente#2_003
+    400014: Componente#2_004
+    400016: Componente#3_002
+    400018: Group_001
+    400020: Group_003
+    400022: Group_004
+    400024: Group_005
+    400026: Group_006
+    400028: Group_007
+    400030: I_001
+    400032: Layer0_001
+    2300000: 0_001
+    2300002: Agrupar#11_002
+    2300004: Agrupar#12_002
+    2300006: Agrupar#1_002
+    2300008: Agrupar#2_003
+    2300010: Componente#2_003
+    2300012: Componente#2_004
+    2300014: Componente#3_002
+    2300016: Group_001
+    2300018: Group_003
+    2300020: Group_004
+    2300022: Group_005
+    2300024: Group_006
+    2300026: Group_007
+    2300028: I_001
+    2300030: Layer0_001
+    3300000: 0_001
+    3300002: Agrupar#11_002
+    3300004: Agrupar#12_002
+    3300006: Agrupar#1_002
+    3300008: Agrupar#2_003
+    3300010: Componente#2_003
+    3300012: Componente#2_004
+    3300014: Componente#3_002
+    3300016: Group_001
+    3300018: Group_003
+    3300020: Group_004
+    3300022: Group_005
+    3300024: Group_006
+    3300026: Group_007
+    3300028: I_001
+    3300030: Layer0_001
+    4300000: Componente#2_004
+    4300002: Componente#2_003
+    4300004: Agrupar#11_002
+    4300006: Agrupar#12_002
+    4300008: Componente#3_002
+    4300010: Agrupar#1_002
+    4300012: Agrupar#2_003
+    4300014: 0_001
+    4300016: I_001
+    4300018: Group_007
+    4300020: Group_006
+    4300022: Group_005
+    4300024: Group_004
+    4300026: Group_003
+    4300028: Group_001
+    4300030: Layer0_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
